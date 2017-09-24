@@ -12,4 +12,4 @@ Run the following steps to download, install and demo the library:
 
 This wrapper code was developed as part of [CVPR 2017 paper on Unsupervised Learning using unlabeled videos](http://cs.berkeley.edu/~pathak/unsupervised_video/). Github repository for the CVPR 17 paper is [here](https://github.com/pathak22/unsupervised-video).
 
-I use this code for computing optical flow for our datasets ([UCSD](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm), [Avenue](http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)
+I use this code for computing optical flow for our datasets ([UCSD](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm), [Avenue](http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html))
